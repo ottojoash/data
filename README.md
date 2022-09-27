@@ -11,4 +11,5 @@ It is a virtual assistant for visually impaired which include models like face r
     * Press `F12` then `ctrl+shift+M` in Chrome.
 
 Note :- This website runs on the local machine and is not yet hosted on the internet. (:-|)
+ *******************************Thank you********************************************8
 
