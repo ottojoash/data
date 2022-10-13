@@ -3,6 +3,7 @@ from object_camera import VideoCamera
 from facecam import Facecamera
 import cv2
 
+
 app = Flask(__name__)
 
 video_stream = VideoCamera()
